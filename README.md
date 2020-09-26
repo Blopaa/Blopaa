@@ -1,7 +1,5 @@
 ## Pablo sabater Jimenez
 
----
-
 welcome to my profile i'm a 14 years old junior developer who likes to spend time programming
 
 ---
