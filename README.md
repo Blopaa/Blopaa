@@ -32,7 +32,11 @@ Tech Stack
     <img src="https://www.welivesecurity.com/wp-content/uploads/es-la/2013/01/Java-Logo.png" width="30px"/>
     <img src="https://camo.githubusercontent.com/209bdea972b9b6ef90220c59ecbe66d35ffefa8a/68747470733a2f2f63646e2e7261776769742e636f6d2f746b6834342f656d6f74696f6e2f6d61737465722f656d6f74696f6e2e706e67" width="50px"/>
     <img src="https://miro.medium.com/max/910/1*JZ2YCpyIOO3JfnXy264b_A.png" width="100px"/>
-    <img src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png" width="50px"/></div>
+    <img src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png"
+    width="50px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" width="70px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="120px">
+  </div>
 
 
 <br/>
