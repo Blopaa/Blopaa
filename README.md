@@ -11,8 +11,8 @@ welcome to my profile i'm a 14 years old junior developer who likes to spend tim
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Blopaa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blopaa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+![stats](https://github-readme-stats.vercel.app/api?username=Blopaa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blopaa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <br/>
 
