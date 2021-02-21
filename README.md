@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Sabater Jimenez</h1>
-<h3 align="center">a young full stack developer, 14 years old, lover of programming and always wanting to learn</h3>
+<h3 align="center">full stack developer, 14 years old</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blopaa&label=Profile%20views&color=0e75b6&style=flat" alt="blopaa" /> </p>
 
