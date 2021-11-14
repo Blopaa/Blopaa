@@ -37,6 +37,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#20](https://github.com/Blopaa/Edno/issues/20) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
+2. ❗️ Opened issue [#19](https://github.com/Blopaa/Edno/issues/19) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
+3. 🎉 Merged PR [#18](https://github.com/Blopaa/Edno/pull/18) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
+4. 💪 Opened PR [#18](https://github.com/Blopaa/Edno/pull/18) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
+5. 🎉 Merged PR [#17](https://github.com/Blopaa/Edno/pull/17) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
