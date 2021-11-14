@@ -1,239 +1,47 @@
-<h1 align="center">Hi 👋, I'm Pablo Sabater Jimenez</h1>
-<h3 align="center">full stack developer, 14 years old</h3>
+### Hi there, I'm Pablo - aka [blopa][github]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blopaa&label=Profile%20views&color=0e75b6&style=flat" alt="blopaa" /> </p>
+## I'm a Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pabloosabaterr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pabloosabaterr" height="30" width="40" /></a>
-</p>
+* ⚡ I'm currently developing my own backend framework writed on typescript
+* 🌱 I'm currently learning everything I can
+* 👯 I'm looking to collaborate with other people
 
-<h3 align="left">Languages and Tools:</h3>
- <p align="left">
-      <a href="https://babeljs.io/" target="_blank">
-        <img
-          src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-          alt="babel"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img
-          src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-          alt="bash"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://getbootstrap.com" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://circleci.com" target="_blank">
-        <img
-          src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"
-          alt="circleci"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://expressjs.com" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-          alt="express"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.figma.com/" target="_blank">
-        <img
-          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-          alt="figma"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://firebase.google.com/" target="_blank">
-        <img
-          src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-          alt="firebase"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://git-scm.com/" target="_blank">
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://heroku.com" target="_blank">
-        <img
-          src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-          alt="heroku"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://www.adobe.com/in/products/illustrator.html"
-        target="_blank"
-      >
-        <img
-          src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-          alt="illustrator"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.java.com" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-          alt="java"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        target="_blank"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://jestjs.io" target="_blank">
-        <img
-          src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-          alt="jest"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-          alt="mongodb"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.mysql.com/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          alt="mysql"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://nextjs.org/" target="_blank">
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
-          alt="nextjs"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://nodejs.org" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-          alt="nodejs"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.photoshop.com/en" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-          alt="photoshop"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.postgresql.org" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-          alt="postgresql"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://postman.com" target="_blank">
-        <img
-          src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-          alt="postman"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://reactjs.org/" target="_blank">
-        <img
-          src="https://reactnative.dev/img/header_logo.svg"
-          alt="react"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://redux.js.org" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-          alt="redux"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://sass-lang.com" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-          alt="sass"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://spring.io/" target="_blank">
-        <img
-          src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-          alt="spring"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-          alt="typescript"
-          width="40"
-          height="40"
-        />
-      </a>
-    </p>
+</br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Blopaa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="blopaa" /></p>
+### Languages and Tools: 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blopaa&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="blopaa" /></p>
+<img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+
+</br>
+</br>
+
+---
+
+### :zap: Recent GitHub Activity
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### :zap: GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Blopaa&show_icons=true&hide_border=true" alt="blopaa" />
+
+
+[github]: https://github.com/Blopaa
