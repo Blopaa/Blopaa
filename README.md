@@ -37,11 +37,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/Blopaa/Edno/pull/29) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
-2. 💪 Opened PR [#29](https://github.com/Blopaa/Edno/pull/29) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
-3. 🎉 Merged PR [#28](https://github.com/Blopaa/Edno/pull/28) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
-4. ❗️ Closed issue [#20](https://github.com/Blopaa/Edno/issues/20) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
-5. 💪 Opened PR [#28](https://github.com/Blopaa/Edno/pull/28) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
+1. 🎉 Merged PR [#30](https://github.com/Blopaa/Edno/pull/30) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
+2. ❗️ Closed issue [#24](https://github.com/Blopaa/Edno/issues/24) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
+3. 💪 Opened PR [#30](https://github.com/Blopaa/Edno/pull/30) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
+4. 🎉 Merged PR [#29](https://github.com/Blopaa/Edno/pull/29) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
+5. 💪 Opened PR [#29](https://github.com/Blopaa/Edno/pull/29) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
