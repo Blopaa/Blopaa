@@ -37,11 +37,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/Blopaa/Edno/pull/43) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
-2. ❗️ Closed issue [#42](https://github.com/Blopaa/Edno/issues/42) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
-3. 💪 Opened PR [#43](https://github.com/Blopaa/Edno/pull/43) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
-4. ❗️ Opened issue [#42](https://github.com/Blopaa/Edno/issues/42) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
-5. 🎉 Merged PR [#41](https://github.com/Blopaa/Edno/pull/41) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
+1. 💪 Opened PR [#48072](https://github.com/microsoft/TypeScript/pull/48072) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+2. 🗣 Commented on [#48053](https://github.com/microsoft/TypeScript/issues/48053) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+3. 🎉 Merged PR [#43](https://github.com/Blopaa/Edno/pull/43) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
+4. ❗️ Closed issue [#42](https://github.com/Blopaa/Edno/issues/42) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
+5. 💪 Opened PR [#43](https://github.com/Blopaa/Edno/pull/43) in [Blopaa/Edno](https://github.com/Blopaa/Edno)
 <!--END_SECTION:activity-->
 
 ### :zap: GitHub Stats
